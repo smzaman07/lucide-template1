@@ -1,0 +1,213 @@
+@media (max-width: 1199px){
+h1 {
+    font-size: 45px;
+}
+.download-theme-section .theme h2 {
+    font-size: 40px;
+}
+}
+
+@media (max-width: 991px){
+	
+	.navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+h1 {
+    font-size: 30px;
+}
+p{
+	font-size: 14px;
+}
+.banner-section ul {
+    margin-top: 20px;
+}
+
+.device-detail-section .heading .device-detail {
+    margin-top: 15px;
+}
+.device-detail-section .heading p {
+    font-size: 16px;
+    padding-top: 20px;
+}
+.feature-detail p {
+    font-size: 17px;
+}
+.heading h2 {
+    font-size: 30px;
+}
+.device-detail-section .heading {
+	padding: 0;
+}
+.Customize-section .heading {
+    padding: 30px 0px;
+}
+.Customize-section .heading p {
+    font-size: 17px;
+}
+.custmer-review p {
+    font-size: 18px;
+}
+.download-theme-section .theme h2 {
+    font-size: 35px;
+}
+.download-theme ul {
+    justify-content: center;
+    margin-top: 10px;
+}
+.download-theme-section {
+    padding: 30px 0px;
+}
+.form-list {
+    transform: translateY(60px);
+}
+footer {
+    padding: 30px;
+}
+}
+
+@media (max-width: 767px){
+	.navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+.banner-section ul {
+    margin-bottom: 20px;
+    justify-content: center;
+}
+h1 {
+    font-size: 35px;
+}
+p{
+	font-size: 16px;
+}
+.device-detail-section .heading {
+    padding: 15px;
+    text-align: center;
+}
+.device-detail-section .heading .device-detail {
+    text-align: start;
+}
+.Customize-section .Customize {
+    padding: 31px 0px;
+}
+.Customize-section .heading p {
+    font-size: 16px;
+}
+.Customize-section .heading {
+    text-align: center;
+}
+.custmer-review ul {
+    flex-direction: column;
+    text-align: center;
+}
+.custmer-review {
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+.download-theme-section .theme h2 {
+    font-size: 25px;
+}
+footer {
+    padding: 20px;
+}
+.form-list {
+    padding: 50px;
+}
+}
+
+@media (max-width: 575px){
+	.navbar-nav {
+    -ms-flex-direction:column ;
+    flex-direction:column ;
+    align-items: center;
+}
+h1 {
+    font-size: 25px;
+}
+.heading h2 {
+    font-size: 25px;
+}
+p {
+    font-size: 14px;
+}
+.feature-img img {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+}
+.feature-img {
+    width: 60px;
+    height: 60px;
+}
+.feature-detail h2 {
+    font-size: 20px;
+}
+.feature-detail p {
+    font-size: 16px;
+}
+.feature-detail {
+    padding: 0px 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.device-detail-section .heading {
+    padding: 20px 30px;
+    text-align: center;
+}
+.device-detail-section .heading p {
+    font-size: 17px;
+}
+.Customize-section .Customize {
+    padding: 30px 0px;
+}
+.device-detail-section .heading .device-detail {
+    text-align: start;
+}
+.Customize-section .heading p {
+    font-size: 17px;
+}
+.Customize-section .heading {
+    padding: 10px 20px;
+    text-align: center;
+}
+.cutomer-review-section {
+    padding: 70px 30px;
+}
+.custmer-review ul {
+    align-items: center !important;
+    flex-direction: column;
+    text-align: center;
+}
+.custmer-review {
+    padding-top: 0px;
+    padding-bottom: 60px;
+}
+.custmer-review p {
+    font-size: 17px;
+}
+.download-theme ul {
+    justify-content: center;
+}
+.download-theme ul li {
+    margin-top: 15px;
+}
+.download-theme-section {
+    padding: 30px 0px;
+
+}
+.pricing-plan-section {
+    padding: 50px 0px;
+}
+.contact-section .heading {
+    padding-bottom: 50px;
+}
+.form-list {
+    padding: 10px;
+    transform: translateY(40px);
+}
+footer {
+    padding: 15px;
+}
+}
